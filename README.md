@@ -1,7 +1,8 @@
-<img align='right' src='https://raw.githubusercontent.com/gist/Mognatti/ffb3c8ccd91c3ad5e83497d230634c9f/raw/5de9b02d0e87b3b5f6fe0c43fead9fee13e65ad5/profile-img.svg'/>
-<h1 align='left'>Hey, welcome to my little code world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /> </h1> 
+<h1 align='center'>Hey, welcome to my little code world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /> </h1> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mognatti&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
+
+<img align='right' src='https://raw.githubusercontent.com/gist/Mognatti/ffb3c8ccd91c3ad5e83497d230634c9f/raw/5de9b02d0e87b3b5f6fe0c43fead9fee13e65ad5/profile-img.svg'/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Sobre mim</h2>
 <ul [style*="list-style-type:none"]>
@@ -25,11 +26,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
