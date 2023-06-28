@@ -1,10 +1,10 @@
 <h1 align='center'>Hey, welcome to my little code world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /> </h1> 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mognatti&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Sobre mim</h2>
 
 <img align='right' src='https://raw.githubusercontent.com/gist/Mognatti/ffb3c8ccd91c3ad5e83497d230634c9f/raw/5de9b02d0e87b3b5f6fe0c43fead9fee13e65ad5/profile-img.svg'/>
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Sobre mim</h2>
 <ul [style*="list-style-type:none"]>
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="25" height="25" /> Front-end developer  
@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> More about me [porfolio](https://portfolio-mognatti.vercel.app/)
 
 </ul>
+<br/>
 <br/>
 <h2 align='left'> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Tech Stack </h2>
 
@@ -40,12 +41,13 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> GitHub Analytics</h2>
 
 <div align='center'>
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
 </div>
+
 <br/>
+
 <div>
 <img align='right' height="150" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
 <p align='left'><img width='650' src='https://github.com/dyeghocunha/dyeghocunha/blob/output/github-contribution-grid-snake.svg'/></p>
-  
 </div>
