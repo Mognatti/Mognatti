@@ -17,23 +17,25 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+
 
 <br/>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> GitHub Analytics</h2>
 
 <div>
-<img height="172em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
-<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
-<img align='right' height="170" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
+<img height="162em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
+<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
+<img align='right' height="150" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
 
 </div>
 
