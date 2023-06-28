@@ -10,7 +10,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I learn something new everyday!
 
-- 👨‍💻 More about me [porfolio](https://portfolio-mognatti.vercel.app/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> More about me [porfolio](https://portfolio-mognatti.vercel.app/)
 <br/>
 <h2 align='left'> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Tech Stack </h2>
 
@@ -32,12 +32,13 @@
 <br/>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> GitHub Analytics</h2>
 
-<div>
+<div align='center'>
 <img height="162em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
 <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
-<img align='right' height="150" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
-
 </div>
-
-
-<p align='center'><img src='https://github.com/dyeghocunha/dyeghocunha/blob/output/github-contribution-grid-snake.svg'/></p>
+<br/>
+<div>
+<img align='right' height="150" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
+<p align='left'><img width='800' src='https://github.com/dyeghocunha/dyeghocunha/blob/output/github-contribution-grid-snake.svg'/></p>
+  
+</div>
