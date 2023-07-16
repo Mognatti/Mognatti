@@ -43,8 +43,8 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> GitHub Analytics</h2>
 
 <div align='center'>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mognatti&show_icons=true&theme=radical">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mognatti&layout=compact&theme=radical">
 </div>
 
 <br/>
