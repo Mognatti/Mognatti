@@ -49,6 +49,6 @@
 
 <br/>
 
-<div>
-<img align='right' height="150" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
+<div align='center'>
+<img  height="200" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true" />
 </div>
