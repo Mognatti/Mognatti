@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mognatti&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Sobre mim</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />About me</h2>
 
 <img align='right' src='https://raw.githubusercontent.com/gist/Mognatti/ffb3c8ccd91c3ad5e83497d230634c9f/raw/5de9b02d0e87b3b5f6fe0c43fead9fee13e65ad5/profile-img.svg'/>
 
