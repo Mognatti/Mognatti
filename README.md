@@ -4,9 +4,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />About me</h2>
 
-<img align='right' src='https://raw.githubusercontent.com/gist/Mognatti/ffb3c8ccd91c3ad5e83497d230634c9f/raw/5de9b02d0e87b3b5f6fe0c43fead9fee13e65ad5/profile-img.svg'/>
 
-<ul >
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="25" height="25" /> Full-stack developer
 
@@ -16,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> More about me: [porfolio](https://portfolio-mognatti.vercel.app/)
 
-</ul>
+
 <br/>
 <br/>
 <h2 align='left'> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Tech Stack </h2>
